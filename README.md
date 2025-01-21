@@ -1,1 +1,2 @@
-# controle-financeiro
+# Controle Financeiro
+Planilha de controle financeiro
